@@ -2,9 +2,9 @@
 I think this repo gonna become one of the best renamer open source 🥰.
 
 Please Give a ⭐ if you like this repo and also try following me for more best open source codes<br><br>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Ns-Bots/TG-RENAMER-BOT)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Ns_AnoNymouS)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/blue?icon=github)](https://github.com/Aaditya318/TG-RENAMER-BOT)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Bot_devloaper)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/bot_devloaper)
 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/Ns-Bots/TG-RENAMER-BOT#deploy-to-heroku-)
